@@ -1,4 +1,4 @@
-# Financial-Analysis-Project-Lindt-vs-Competitors
+# Financial-Analysis- GroupProject-Lindt-vs-Competitors
 Conducted cross-sectional financial ratio analysis 
 Overview
 This project analyzes the financial performance of Lindt & Sprüngli compared to key premium chocolate competitors using financial ratios.
